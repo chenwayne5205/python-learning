@@ -1,3 +1,5 @@
+### 了解python标准库，Python Module of the Week：https://pymotw.com/
+
 ### B站学习地址： https://www.bilibili.com/video/BV1dJiRYLEfJ/?share_source=copy_web&vd_source=5b65b7f3255909090df8d176a33a00fd
 
 ### 使用yolo训练window数据集：https://blog.csdn.net/yu_xinli/article/details/126461555
